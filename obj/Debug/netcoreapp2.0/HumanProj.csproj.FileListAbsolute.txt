@@ -1,0 +1,10 @@
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/bin/Debug/netcoreapp2.0/HumanProj.deps.json
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/bin/Debug/netcoreapp2.0/HumanProj.runtimeconfig.json
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/bin/Debug/netcoreapp2.0/HumanProj.runtimeconfig.dev.json
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/bin/Debug/netcoreapp2.0/HumanProj.dll
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/bin/Debug/netcoreapp2.0/HumanProj.pdb
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/obj/Debug/netcoreapp2.0/HumanProj.csproj.CoreCompileInputs.cache
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/obj/Debug/netcoreapp2.0/HumanProj.AssemblyInfoInputs.cache
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/obj/Debug/netcoreapp2.0/HumanProj.AssemblyInfo.cs
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/obj/Debug/netcoreapp2.0/HumanProj.dll
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/HumanProj/obj/Debug/netcoreapp2.0/HumanProj.pdb
